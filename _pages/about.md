@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Visualization and MultiMedia Lab of the University of Zurich, working as an Early-Stage Researcher in the H2020 MSCA-ITN project EVOCATION, in the problem of indoor reconstruction of scenes.  
+I am a Ph.D. student at the Visualization and MultiMedia Lab of the University of Zurich, working as an Early-Stage Researcher in the H2020 MSCA-ITN project EVOCATION, in the problem of indoor reconstruction of scenes.
+
 I am proud of being awarded the GHC 2020 scholarship to attend the largest gathering of women in technology, known as the Grace Hopper Celebration.
  I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru, and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil.
-My research interests are geometry processing, shape analysis, machine learning, and computer vision.
-
+ 
+My research interests lie at the intersection of geometry processing, 3D computer vision, and deep learning for point clouds.
+In particular, I am interested in building learning systems that reconstruct structural elements and understand objects of indoor environments.
 Recent Works
 ======
 
