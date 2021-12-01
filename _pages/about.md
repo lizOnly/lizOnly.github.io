@@ -15,6 +15,7 @@ I am proud of being awarded the GHC 2020 scholarship to attend the largest gathe
  
 My research interests lie at the intersection of geometry processing, 3D computer vision, and deep learning for point clouds.
 In particular, I am interested in building learning systems that reconstruct structural elements and understand objects of indoor environments.
+
 Recent Works
 ======
 
