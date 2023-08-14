@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Visualization and MultiMedia Lab of the University of Zurich, working as an Early-Stage Researcher in the H2020 MSCA-ITN project EVOCATION. The general topic is 3D reconstruction of indoor environments.
+I'm currently pursuing my Ph.D. at the Visualization and MultiMedia Lab, University of Zurich. Previously, I completed my MSc in Computer Science from Federal Fluminense University in Niteroi, Brazil, and my BSc from the National University of Saint Augustine in Arequipa, Peru. My primary research delves into 3D reconstruction from point clouds, particularly scans of indoor environments.
 
-I am thrilled to be awarded the scholarship in the Rising Stars in Computer Graphics program (2022-2023), organized by WiGRAPH, an official group of the SIGGRAPH conference.
-I have also been awarded the GHC 2020 and 2022 scholarships to attend the largest gathering of women in technology, known as the Grace Hopper Celebration.
+I'm honored to have been chosen for the Rising Stars in Computer Graphics program (2022-2023) hosted by WiGRAPH, an official group of the SIGGRAPH conference. In addition, I've been privileged to receive scholarships for the GHC in 2020 and 2022, enabling me to attend the Grace Hopper Celebration, a premier gathering for women in tech.
 
-I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru, and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil.
+My research interest lies at the intersection of geometry processing, 3D computer vision, and deep learning applied to point clouds. Specifically, I aim to reconstruct concise polygonal meshes that distinguish between structural elements and objects within a scene.
 
-My research interests lie at the intersection of geometry processing, 3D computer vision, and deep learning for point clouds. In particular, I am interested in building learning systems that reconstruct structural elements and understand objects of indoor environments.
+Personal growth is of paramount importance to me. I firmly believe in continuously evolving and encountering newer versions of oneself, always pushing boundaries and absorbing lessons from every experience.
+
+Creativity is my outlet. Whether through painting, writing, or reading, I cherish the process of creation and gaining insights from varied perspectives. For those interested, you can explore my most recent book [The three buildings](https://www.amazon.com/dp/B0B8T5QFFL).
 
 Recent Works
 ======
