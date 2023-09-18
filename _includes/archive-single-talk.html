@@ -25,6 +25,16 @@
           alt="">
       </div>
     {% endif %}
+    
+    {% if post.simage %}
+    <table style="width:100%; border-collapse: collapse; border: none;">
+    <tr style="border-collapse: collapse; border: none;">
+        <td style="width:25%; border-collapse: collapse; border: none;">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink"><img src="../images/{{ post.simage }}"/></a>
+        </td>
+        <td style="width:75%; border-collapse: collapse; border: none;">
+    {% endif %}
+    
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -36,7 +46,13 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }}, {{post.location}}</p>{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+
+    {% if post.simage %}
+    </td></tr></table>
+    {% endif %}
+    
   </article>
 </div>
+

@@ -5,6 +5,8 @@ permalink: /publication/star_indoor_reconstruction
 date: 2020-07-13
 authors: 'Giovanni Pintore, Claudio Mura, Fabio Ganovelli, Lizeth Fuentes Perez, Renato Pajarola, Enrico Gobbetti'
 venue: 'Computer Graphics Forum'
+simage: star.jpg
+excerpt: ''
 ---
 
 ![](../images/star.jpg)
