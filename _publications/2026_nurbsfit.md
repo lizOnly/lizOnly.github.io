@@ -20,6 +20,7 @@ NURBS surfaces are compact parametric representations widely used in Computer-Ai
 
 BibTeX:
 
+{% raw %}
 ```
 @inproceedings{FLP:26,
 author    = {{Fuentes Perez}, Lizeth J. and Lafarge, Florent and Pajarola, Renato},
@@ -31,3 +32,4 @@ year      = {2026}
 }
 
 ```
+{% endraw %}
